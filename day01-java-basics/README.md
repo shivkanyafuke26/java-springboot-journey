@@ -1,5 +1,4 @@
 # Day 1 Java Basics
-# Day 1 Java Basics Notes
 
 ## Introduction to Java
 
